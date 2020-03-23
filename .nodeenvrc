@@ -2,7 +2,8 @@
 debug = False
 jobs = 2
 make = make
-node = 12.16.1
+node = 10.19.0
+npm = 6.13.4
 prebuilt = True
 profile = False
 with_npm = False
